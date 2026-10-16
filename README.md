@@ -10,6 +10,8 @@ I work with real data rather than curated datasets: live APIs, government record
 
 **[chess-self-analysis](https://github.com/BadrWaqas/chess-self-analysis)** — four years of my own Chess.com games analysed with Stockfish, covering rating progression, opening tendencies, and where in a game my accuracy drops.
 
+Outside data, I made **[Sandscape](https://github.com/BadrWaqas/sandscape-app)**, a desktop app that teaches Python through a box of glowing, musical sand. Free for Windows.
+
 Python · pandas · scikit-learn · SQL · Streamlit · Git
 
-Second year, seeking part-time data work in Dublin and a Summer 2027 internship. [LinkedIn](https://www.linkedin.com/in/badrw)
+Second year at NCI, working part-time at Flying Tiger Copenhagen. Looking for a Summer 2027 internship in data science or analytics. [LinkedIn](https://www.linkedin.com/in/badrw)
